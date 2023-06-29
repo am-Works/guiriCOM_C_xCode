@@ -1,0 +1,9 @@
+OUT "Este es un ejemplo de Programa Mingo"
+OUT "Programa Mingo 5"
+OUT "-"
+
+IN a
+OUT "a = ",a
+
+OUT "Fin del programa Mingo 5"
+

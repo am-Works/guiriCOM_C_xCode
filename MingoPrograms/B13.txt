@@ -1,0 +1,22 @@
+OUT "Este es un programa Mingo"
+OUT "leer z"
+IN z
+OUT "leer a"
+IN a
+
+z=(a+z)*3
+
+OUT "el preresultado es ",z
+
+FOR i=1 TO a
+	z = a^2 + z
+
+NXT
+
+OUT "Valor de z ", z, " y valor de a ", a
+
+IF z>3 THEN
+
+	OUT "Este programa funciona"
+
+END

@@ -1,0 +1,14 @@
+OUT "dame un numero"
+IN x
+
+OUT "si el numero <10 salta sino sigue"
+
+IF x<10 THEN JMP 10
+
+OUT "El numero fue mayor igual a 10"
+END
+
+10
+	OUT "el numero fue menor a 10"
+
+END

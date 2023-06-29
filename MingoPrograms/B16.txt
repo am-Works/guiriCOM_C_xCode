@@ -1,0 +1,6 @@
+OUT "Dame un numero"
+IN a
+OUTP 1, a
+INP 1, b
+OUT "entrada ", b
+END

@@ -1,0 +1,8 @@
+OUT "Dame un numero"
+a = 5
+OUT "a es ", a
+
+
+FOR i=1 TO a
+        OUT a," HOLA ", i
+NXT

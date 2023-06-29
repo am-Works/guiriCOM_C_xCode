@@ -1,0 +1,22 @@
+OUT "Este es un programa ejemplo"
+OUT " "
+OUT "Dame un numero..."
+IN A
+
+OUT "El 1er numero es ", A
+OUT " "
+OUT "Hay va un ciclo:"
+
+FOR x=1 TO A
+        OUT "Cuenta...", x
+NXT
+
+OUT " "
+OUT "dame otro numero..."
+IN B
+
+OUT " "
+
+IF A < B THEN OUT "1er numero < al 2do"
+
+IF A > B THEN OUT "1er numero > al 2do"

@@ -1,0 +1,15 @@
+OUT "este programa calcula el volumen de un cubo"
+
+OUT "dame un numero"
+
+a = 3
+
+OUT "el valor de a es ",a
+
+x = a ^ 3
+
+FOR i=1 TO 3
+        out "hola"
+NXT
+
+OUT x

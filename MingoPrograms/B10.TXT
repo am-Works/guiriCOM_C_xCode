@@ -1,0 +1,35 @@
+OUT "programa con Procedimientos"
+OUT
+OUT "dame el valor de a? "
+IN a
+
+PROC 10
+
+OUT "el resultado de a es ",a
+OUT "ya acabe"
+OUT "ya continue"
+OUT "el valor de a sigue siendo ",a
+OUT "dame el valor de b "
+IN b
+
+PROC 20
+
+OUT "el valor de b es ", b
+
+FOR x=1 TO 10
+         OUT "No que no"
+NXT
+
+END
+
+
+10
+	a=a+10
+RET
+
+
+20 
+	b=b+a
+	b=b-1
+RET
+

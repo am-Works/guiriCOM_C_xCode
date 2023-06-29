@@ -1,0 +1,6 @@
+OUT "Dame un numero"
+IN a
+
+FOR i=5 TO a
+        OUT a, " HOLA ", i
+NXT

@@ -1,0 +1,2 @@
+a=5
+OUT "Hola, el valor de a es: ", a

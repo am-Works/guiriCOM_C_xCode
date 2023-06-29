@@ -1,0 +1,6 @@
+
+OUT "dame un numero mayor de 5"
+IN x
+
+
+IF X < 5 THEN OUT "te dije que mayor de 5"

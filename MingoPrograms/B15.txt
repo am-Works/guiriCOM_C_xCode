@@ -1,0 +1,9 @@
+a = 4
+b = 5
+
+z = (a ^ b)
+OUT "valor ", z 
+OUT " "
+
+OUT " Hola mundo "
+END

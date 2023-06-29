@@ -1,0 +1,8 @@
+OUT "Sumas"
+OUT "dame el tope"
+INP 1, y
+
+FOR x = 1 TO y
+	OUT x
+	OUTP 1, x
+NXT
