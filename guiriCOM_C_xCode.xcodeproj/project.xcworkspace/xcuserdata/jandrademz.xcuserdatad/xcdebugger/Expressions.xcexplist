@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "interpreter:gCOM.c">
+      </ContextState>
+      <ContextState
+         contextName = "assign_value_to_variable:gCOM.c">
+      </ContextState>
+      <ContextState
+         contextName = "get_token_lexical_parser:gParser.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "token">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "return_program_counter_to_previous_token:gParser.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "ptrMingoProgram">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "out_command:gCOM.c">
+      </ContextState>
+      <ContextState
+         contextName = "get_value_expression_parser:gParser.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "ptrMingoProgram">
+            </PersistentString>
+            <PersistentString
+               value = "token">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "for_command:gCOM.c">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
